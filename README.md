@@ -3,4 +3,10 @@
 Kaggle Datset Link:
 https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho
 
-Create a machine learning model and implement it end to end
+- Python versions 3.*.
+- Python Libraries:
+    - Pandas.
+    - Scikit-learn.
+    - numpy.
+    - matplotlib.
+    - seaborn.
