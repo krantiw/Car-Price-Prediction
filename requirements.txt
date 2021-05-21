@@ -38,7 +38,6 @@ jupyterlab-pygments==0.1.2
 jupyterlab-widgets==1.0.0
 keyring==23.0.0
 kiwisolver==1.3.1
-kranpackage @ file:///C:/Users/user/Desktop/PYTHON/kranpackage/dist/kranpackage-0.3-py3-none-any.whl
 MarkupSafe==1.1.1
 matplotlib==3.4.1
 mistune==0.8.4
